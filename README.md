@@ -1,5 +1,9 @@
-# MyFirstRepository
+# 19173041 홍희주
 
-Hello My Name is HeeJu.
+## 1주차과제
 
-<img width="" height="" src="./Png/sea.png"></img>
+
+## 2주차과제
+
+
+## 3주차과제
