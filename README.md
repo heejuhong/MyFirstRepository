@@ -4,7 +4,7 @@
 
 
 ## 2주차과제
-<img width="500" height="600" src="./png/2주차.png"></img>
+<img width="450" height="600" src="./png/2주차.png"></img>
 
 ## 3주차과제
-<img width="500" height="600" src="./png/3주차.jpg"></img>
+<img width="450" height="600" src="./png/3주차.jpg"></img>
