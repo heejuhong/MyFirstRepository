@@ -19,5 +19,5 @@
 다시 한번 확인 할 수 있습니다. 그리고 앱을 사용하는데 있어 복잡하지 않고 보기 편한것에 차별성을 둔다.
 
 ## 7주차 과제
-<img width="400" height="700" src="./png/7주차과제.png"></img>
-<img width="400" height="700" src="./png/7주차과제2.png"></img>
+<img width="350" height="700" src="./png/7주차과제.png"></img>
+<img width="350" height="700" src="./png/7주차과제2.png"></img>
